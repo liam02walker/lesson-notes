@@ -1,3 +1,5 @@
+[Lesson 01] ([github.com](https://liam02walker.github.io/reading-notes/class-01)
+
 # lesson-notes
 Coding Course Notes
 
