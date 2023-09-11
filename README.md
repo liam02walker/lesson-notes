@@ -1,6 +1,7 @@
 # lesson-notes
 Coding Course Notes
 
+[About Me](https://liam02walker.github.io/reading-notes/introduction/introduction)
 [Lesson 01](https://liam02walker.github.io/reading-notes/lesson-01)
 
 ## Growth Mindset
