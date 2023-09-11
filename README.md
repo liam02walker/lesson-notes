@@ -1,4 +1,4 @@
-[Lesson 01] ([github.com](https://liam02walker.github.io/reading-notes/class-01)
+[Lesson 01] ([github.com](https://liam02walker.github.io/reading-notes/lesson-01)
 
 # lesson-notes
 Coding Course Notes
