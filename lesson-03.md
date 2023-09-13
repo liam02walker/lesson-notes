@@ -24,3 +24,7 @@ Manage your team's work, version tracking, reviewing changes
 - Run: git add . to add everything now into the remote, they will now be green if they are added
 - Now you need to add a snapshot, git commit -m "Added HTML & CSS" (which adds a message to what update you have made)
 - Now you can push it onto github: git push
+
+**Updating For A Whole Team**
+- It is best practice to do the command: git pull before every session
+- This way you have an up to date version before every session
