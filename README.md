@@ -10,6 +10,7 @@ Coding Course Notes
 [Lesson 05](https://liam02walker.github.io/reading-notes/lesson-05)
 [Lesson 06](https://liam02walker.github.io/reading-notes/lesson-06)
 [Lesson 07](https://liam02walker.github.io/reading-notes/lesson-07)
+[Lesson 08](https://liam02walker.github.io/reading-notes/lesson-08)
 
 ## Growth Mindset
 **Growth mindset** is having a mindset that is willing to learn and able to progress through failures and success.
