@@ -23,4 +23,5 @@
 - for (set initial value; a condition it needs to meet; update the value after each variable) {CODE IN HERE}
 
 **While Loop**
-- 
+- While loop runs whilst a condition is met. while true do x this will run infinitely
+- do loop runs once and THEN checks if the condition is met
